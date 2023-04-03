@@ -1,0 +1,19 @@
+.image-site {
+  width: 370px;
+  height: 200px;
+}
+
+table {
+  border: 1px solid #000;
+  border-collapse: collapse;
+}
+
+th {
+  border: 1px solid #000;
+  padding: 5px;
+}
+
+td {
+  border: 1px solid #000;
+  padding: 5px;
+}
